@@ -1,0 +1,51 @@
+
+.someClass{
+    background-color: grey;
+    border-radius: 2rem;
+    border: solid black 1rem;
+    padding: 1rem;
+}
+h1{
+    color: lightgreen;
+    position: relative;
+    text-align: center;
+
+}
+h3{
+    color: blue;
+}
+p{
+    color: red;
+}
+.one{
+    background-color: lightgrey;
+    border: solid black 2px;
+    border-radius: 1rem;
+    text-align: center;
+    width: 30%;
+    position: relative;
+    margin-left: 2px;
+}
+.two{
+    background-color: lightgrey;
+    border: solid black 2px;
+    border-radius: 1rem;
+    text-align: center;
+    width: 30%;
+    position: relative;
+    margin-left: 33%;
+    margin-top: -75px;
+}
+.three{
+    background-color: lightgrey;
+    border: solid black 2px;
+    border-radius: 1rem;
+    text-align: center;
+    width: 30%;
+    position: relative;
+    margin-left: 66%;
+    margin-top: -78px;
+}
+#wrapper{
+    display: inline;
+}
